@@ -1,3 +1,14 @@
+/*Based on 
+www.motherfuckingwebsite.com
+www.bettermotherfuckingwebsite.com
+https://connie.surf/infinite.html
+https://www.geeksforgeeks.org/create-an-infinite-scroll-page-using-html-css-javascript/
+
+I know those first 2 links seem crazy but they offer pretty good advice
+*/
+
+
+
 const TextArray = [
 	"Everything always starts out so innocent.", 
 	"See, I just wanted to mess around.",
