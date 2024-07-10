@@ -7,11 +7,13 @@ body {
 	text-align: center;
 } 
 
-.sub-block { 
+.sub-block { 	
 	border: 1px solid #030303; 
 	padding: 10px; 
 	margin: 10px auto; 
 	height: 20px; 
+	border-radius: 15px;
+	background-color: #ffffff;
 } 
 
 #content-before-loading { 
@@ -22,6 +24,7 @@ body {
 	max-width: 600px; 
 	margin: 20px auto; 
 	padding: 20px; 
-	background-color: #ffffff; 
+	background-color: #fbf3df; 
+	border-radius: 15px;
 
 }
