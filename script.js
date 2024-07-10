@@ -13,8 +13,7 @@ const TextArray = [
 	"It was written as an essay about scrolling.",
 	"Seemed harmless enough.",
 	"But how interesting could it really be?",
-	"It's just scrolling.",
-	"You know?",
+	"It's just scrolling. You know?",
 	"But that's the thing."
 ]
 
