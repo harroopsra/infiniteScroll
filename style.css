@@ -1,18 +1,22 @@
 body { 
 	font-family: serif;
-	margin: 40px auto; 
+	font-size: 20x;
+	margin: 40px auto;
+	max-width: 650px; 
 	padding: 0; 
-	background-color: #ffffff; 
+	background-color: #fefaf4; 
 	line-height: 1.6;
 	text-align: center;
+	color: #444;
 } 
 
-.sub-block { 	
-	border: 1px solid #030303; 
+.sub-block { 
+	font-size: 18px;
+	border-radius: 15px;
 	padding: 10px; 
 	margin: 10px auto; 
-	height: 20px; 
-	border-radius: 15px;
+	height: 20px;
+	text-align: center;
 	background-color: #ffffff;
 } 
 
